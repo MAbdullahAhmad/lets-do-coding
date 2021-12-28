@@ -19,21 +19,16 @@ It is upto you that you wanna deal invalid inputs or not.
 
 ## Sample Result
 
-<code>
-  Relative Grading - Grade Claculator
-  ___________________________________
-  <br>
-  <br>
-  <br>
+    Relative Grading - Grade Claculator
+    ___________________________________
 
-  Lowest Marks: <b>42</b><br>
-  Highest Marks: <b>82</b><br>
-  <br>
-  Marks of Student-A: <b>52</b><br>
-  Marks of Student-B: <b>69</b><br>
-  Marks of Student-C: <b>81</b><br>
-  <br>
-  Grade of Student-A: D<br>
-  Grade of Student-B: B<br>
-  Grade of Student-C: A<br>
-</code>
+    Lowest Marks: 42
+    Highest Marks: 82
+    
+    Marks of Student-A: 52
+    Marks of Student-B: 69
+    Marks of Student-C: 81
+    
+    Grade of Student-A: D
+    Grade of Student-B: B
+    Grade of Student-C: A

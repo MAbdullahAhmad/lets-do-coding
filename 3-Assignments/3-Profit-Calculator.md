@@ -11,29 +11,22 @@ Write a Profit Calculator. That will work as follow:
 
 ## Sample Result
 
-<code>
-  Profit Calculator<br>
-  _________________
-  <br>
-  <br>
+    Profit Calculator
+    _________________
 
-  Enter GST (%age) : <b>2.5</b><br>
-  <br>
+    Enter GST (%age): 2.5
 
-  Enter Cost: <b>100</b><br>
-  Enter Profit Rate: <b>20</b><br>
+    Enter Cost: 100
+    Enter Profit Rate: 20
 
-  Enter Cost: <b>210</b><br>
-  Enter Profit Rate: <b>50</b><br>
+    Enter Cost: 210
+    Enter Profit Rate: 50
 
-  Enter Cost: <b>1000</b><br>
-  Enter Profit Rate: <b>5</b><br>
+    Enter Cost: 1000
+    Enter Profit Rate: 5
 
-  <br>
-  Profit:
-  <!-- (100 * 20 / 100) - (100  * 2.5 / 100) = 17.5 -->
-  <!-- (210 * 50 / 100) - (210  * 2.5 / 100) = 99.75 -->
-  <!-- (1000 * 5 / 100) - (1000 * 2.5 / 100) = 25.0 -->
-  <!-- 17.5 + 99.75 + 25.0 = 142.25 --> 
-  142.25
-</code>
+    Profit: 142.25
+<!-- (100 * 20 / 100) - (100  * 2.5 / 100) = 17.5 -->
+<!-- (210 * 50 / 100) - (210  * 2.5 / 100) = 99.75 -->
+<!-- (1000 * 5 / 100) - (1000 * 2.5 / 100) = 25.0 -->
+<!-- 17.5 + 99.75 + 25.0 = 142.25 --> 
