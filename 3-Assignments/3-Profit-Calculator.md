@@ -25,6 +25,9 @@ Write a Profit Calculator. That will work as follow:
     Enter Cost: 1000
     Enter Profit Rate: 5
 
+    Enter Cost: 0
+    END-INPUT
+
     Profit: 142.25
 <!-- (100 * 20 / 100) - (100  * 2.5 / 100) = 17.5 -->
 <!-- (210 * 50 / 100) - (210  * 2.5 / 100) = 99.75 -->
